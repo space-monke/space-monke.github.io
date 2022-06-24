@@ -1,0 +1,62 @@
+body
+{
+    background-color: #00131A;
+    color: white;
+    font-family: 'Secular One', sans-serif;
+    font-size: 1.4rem;
+    text-align: center;
+    margin: 3% 20% 0% 20%;
+    border: 50px solid;
+    border-top: 0px;
+}
+
+.monke { border-color: #659bcf;}
+body.monke a { color: #659bcf; }
+
+.kkktd { border-color: #00767A;}
+body.kkktd a { color: #00767A; }
+
+.somxeti-sim { border-color: #d26200; }
+body.somxeti-sim a { color: #d26200;}
+
+p { padding: 5%; }
+.altp { padding: 0%; }
+
+img
+{
+    border-radius: 10px;
+    margin: auto;
+    width: 450px;
+    height: auto;
+}
+.altimg1
+{
+    margin: auto;
+    width: 200px;
+    height: auto;
+}
+
+.reg
+{
+    width: 350px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+#sub
+{
+    border: 1px solid white;
+    background-color: orange;
+    color: black;
+    font-family: 'Secular One', sans-serif;
+    font-size: 1em;
+    width: 140px;
+    height: 80px;
+    border-radius: 20px;
+}
+
+ol
+{
+    text-align: left;
+    margin-left: 10%;
+}

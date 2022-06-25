@@ -31,10 +31,38 @@ img
 }
 .altimg1
 {
-    margin: auto;
     width: 200px;
     height: auto;
 }
+.tableImage
+{
+    width: 100px;
+    height: auto;
+}
+
+table
+{
+    margin: auto;
+    background-color: white;
+    border: solid white;
+    border-radius: 15px;
+}
+td
+{
+    background-color: dimgray;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+th
+{
+    background-color: dimgray;
+    width: 150px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.ltd { font-size: 150%; }
 
 .reg
 {

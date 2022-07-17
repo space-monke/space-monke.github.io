@@ -13,6 +13,14 @@ body
 .monke { border-color: #659bcf;}
 body.monke a { color: #659bcf; }
 
+.monkecon
+{
+    border-color: #f5e3ff;
+    background: rgb(237,113,252);
+    background: radial-gradient(circle, rgba(237,113,252,1) 0%, rgba(255,102,185,1) 60%, rgba(255,149,199,1) 63%, rgba(199,57,217,1) 100%);
+}
+body.monkecon a { color: #f5e3ff; }
+
 .kkktd { border-color: #00767A;}
 body.kkktd a { color: #00767A; }
 
@@ -89,9 +97,9 @@ ol
     margin-left: 10%;
 }
 
-iframe
+.ytembed
 {
     width: 560px;
-    height: 320px;
+    height: 315px;
     border-radius: 15px;
 }

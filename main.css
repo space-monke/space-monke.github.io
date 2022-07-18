@@ -6,6 +6,7 @@ body
     font-size: 1.4rem;
     text-align: center;
     margin: 3% 20% 0% 20%;
+    margin-top: -3%;
     border: 50px solid;
     border-top: 0px;
 }
@@ -27,8 +28,15 @@ body.kkktd a { color: #00767A; }
 .somxeti-sim { border-color: #d26200; }
 body.somxeti-sim a { color: #d26200;}
 
-p { padding: 5%; }
-.altp { padding: 0%; }
+h1 { padding-left: 5%; padding-right: 5%; padding-top: 0%; padding-bottom: 0%; }
+h2 { padding-left: 5%; padding-right: 5%; padding-top: 0%; padding-bottom: 0%; }
+h3 { padding-left: 5%; padding-right: 5%; padding-top: 0%; padding-bottom: 0%; }
+h4 { padding-left: 5%; padding-right: 5%; padding-top: 0%; padding-bottom: 0%; }
+
+p { padding-left: 5%; padding-right: 5%; padding-top: 0%; padding-bottom: 0%; }
+.altp0 { padding: 5%; }
+.altp { padding-left: 5%; padding-right: 5%; padding-top: 0%; padding-bottom: 0%; }
+.smolp { font-size: 60%; }
 
 img
 {

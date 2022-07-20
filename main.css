@@ -14,13 +14,19 @@ body
 .monke { border-color: #659bcf;}
 body.monke a { color: #659bcf; }
 
-.monkecon
+.monkeconS
 {
     border-color: #f5e3ff;
     background: rgb(237,113,252);
     background: radial-gradient(circle, rgba(237,113,252,1) 0%, rgba(255,102,185,1) 60%, rgba(255,149,199,1) 63%, rgba(199,57,217,1) 100%);
 }
-body.monkecon a { color: #f5e3ff; }
+body.monkeconS a { color: #f5e3ff; }
+
+.monkecon
+{
+    background: #000000;
+}
+body.monkecon { border-color: #000000; }
 
 .kkktd { border-color: #00767A;}
 body.kkktd a { color: #00767A; }
@@ -48,6 +54,12 @@ img
 .altimg1
 {
     width: 200px;
+    height: auto;
+}
+.altimg2
+{
+    margin: auto;
+    width: 600px;
     height: auto;
 }
 .tableImage
